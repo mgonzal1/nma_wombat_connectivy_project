@@ -1,1 +1,3 @@
-# nma_wombat_connectivy_projectt
+# Connectivy Project
+
+This is an example of Merge Request.
