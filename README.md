@@ -10,3 +10,7 @@ In the context of brain lesions and neurodegenerative diseases, we find that neu
 
 
 The neural representation of visual and motor information associated with a task is spread on several brain regions conforming to a functional network to engage in different stages of a visual task (visual, motor, and choice related). Using a model where we assume the nature of the information communication between areas, we want to explore what is the minimal neural connectivity that allows the network to perform the task and how performance is affected by artificially lesioning the model.
+
+__Model__
+
+![Alt text](/img/model.png?raw=true "Title")
